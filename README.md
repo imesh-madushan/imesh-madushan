@@ -1,13 +1,14 @@
     
-# Hi there 👋
-<h1 align="center">I'm Imesh Madushan</h1>
+## Hi there 👋
+<h3 align="center">I'm Imesh Madushan</h3>
 
 <p>
-    Hi, I'm Imesh Madushan, a passionate Full Stack Web Developer and a Software Engineering Student from Sri Lanka.  I am a self taught programmer and I love to learn new technologies and improve my skills. I am always open to new opportunities and challenges.
+    Hi, I'm Imesh , a passionate Full Stack Web Developer and a Software Engineering Student from Sri Lanka.  I am a self taught programmer and I love to learn new technologies and improve my skills.
+    
+   	...I am always open to new opportunities and challenges.
 </p>
-
-<h1 align="left">Skills</h1>
-
+<h1></h1>
+<h3 align="left">Skills</h3>
 <p>
     <a href="https://reactjs.org/" target="_blank">
         <img src="https://skillicons.dev/icons?i=react&theme=light" alt="React Icon"/></a>
@@ -52,7 +53,9 @@
     
 </p>
 
-<h1 align="left">Social</h1>
+<h1></h1>
+
+<h3 align="left">Social</h3>
 <p align="left">
 <a href="https://linkedin.com/in/imesh-madushan" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/master/large/colored/linkedin.svg" alt="https://www.linkedin.com/in/imesh-madushan" height="30" width="40" /></a>
 <a href="https://www.facebook.com/imesh927" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/master/large/colored/facebook.svg" alt="imesh927" height="30" width="40" /></a>
@@ -60,7 +63,7 @@
 <a href="https://t.me/Imeshmadushan" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/master/large/colored/telegram.svg" alt="Imeshmadushan" height="30" width="40" ></a>
 <a href="https://stackoverflow.com/users/25277934/imesh-madushan"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="imesh-madushan" height="30" width="40" ></a>
 </p>
-
+<h1></h1>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imesh927&show_icons=true&theme=tokyonight&bg_color=45,01004E,3C0E5D&text_color=FFFFFF&hide_border=True&border_radius=14&locale=en" alt="imesh927" /></p>
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=imesh927&theme=ads-juicy-fresh&border_radius=14&mode=weekly&border=000000&stroke=FFFFFF&ring=FFFFFF&fire=EB5A2D&currStreakNum=EB5A2D&sideNums=FFFFFF&currStreakLabel=EB5A2D&sideLabels=FFFFFFDA&dates=BF91F3E8&background=45%2C01004E%2C3C0E5D" alt="GitHub Streak" /></a>
