@@ -1,12 +1,12 @@
     
 # Hi there 👋
-<h2>I'm Imesh Madushan</h2>
+<h1 align="center">I'm Imesh Madushan</h1>
 
 <p>
     Hi, I'm Imesh Madushan, a passionate Full Stack Web Developer and a Software Engineering Student from Sri Lanka.  I am a self taught programmer and I love to learn new technologies and improve my skills. I am always open to new opportunities and challenges.
 </p>
 
-<h3 align="left">Skills</h3>
+<h1 align="left">Skills</h1>
 
 <p>
     <a href="https://reactjs.org/" target="_blank">
@@ -52,7 +52,7 @@
     
 </p>
 
-<h3 align="left">Social</h3>
+<h1 align="left">Social</h1>
 <p align="left">
 <a href="https://linkedin.com/in/imesh-madushan" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/master/large/colored/linkedin.svg" alt="https://www.linkedin.com/in/imesh-madushan" height="30" width="40" /></a>
 <a href="https://www.facebook.com/imesh927" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/master/large/colored/facebook.svg" alt="imesh927" height="30" width="40" /></a>
