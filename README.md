@@ -53,7 +53,7 @@
     <img src="https://skillicons.dev/icons?i=ubuntu&theme=light" alt="Ubuntu Icon" /></a>
     
 </p>
----
+
 <h3 align="left">Social</h3>
 <p align="left">
 <a href="https://linkedin.com/in/imesh-madushan" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/master/large/colored/linkedin.svg" alt="https://www.linkedin.com/in/imesh-madushan" height="30" width="40" /></a>
@@ -61,6 +61,7 @@
 <a href="https://www.instagram.com/imesh927" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/master/large/colored/instagram.svg" alt="imesh927" height="30" width="40" /></a>
 <a href="https://t.me/Imeshmadushan" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/master/large/colored/telegram.svg" alt="Imeshmadushan" height="30" width="40" ></a>
 <a href="https://stackoverflow.com/users/25277934/imesh-madushan"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="imesh-madushan" height="30" width="40" ></a>
+</p>
 </p>
 
 ---
