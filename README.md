@@ -1,6 +1,6 @@
     
-## Hi there 👋
-<h3 align="center">I'm Imesh Madushan</h3>
+# Hi there 👋
+<h2 align="center">I'm Imesh Madushan</h2>
 
 <p>
     Hi, I'm Imesh Madushan, a passionate Full Stack Web Developer and a Software Engineering Student from Sri Lanka.  I am a self taught programmer and I love to learn new technologies and improve my skills. I am always open to new opportunities and challenges.
