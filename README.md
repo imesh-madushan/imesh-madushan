@@ -13,7 +13,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imesh927&show_icons=true&locale=en" alt="imesh927" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imesh927&" alt="imesh927" /></p>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=imesh927&theme=ads-juicy-fresh&border_radius=14&mode=weekly&background=45%2C07075B%2C400070&border=000000&stroke=FFFFFF&ring=FFFFFF&fire=EB5A2D&currStreakNum=EB5A2D&sideNums=FFFFFF&currStreakLabel=EB5A2D&sideLabels=FFFFFFDA&dates=9C61FFF7" alt="GitHub Streak" /></a>
 
 
