@@ -1,6 +1,5 @@
 ## Hi ...&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Raising%20Hands.png" alt="Raising Hands" width="37" height="37"/>
-<h3 align="center">I'm Imesh Madushan&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="35" height="35"/>
-</h3>
+<h2 align="center">I'm Imesh Madushan&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="35" height="35"/></h2>
 
 <p>
     A passionate Full Stack Web Developer and a Software Engineering Student from Sri Lanka.  I am a self taught programmer and I love to learn new technologies and improve my skills.	
@@ -8,8 +7,7 @@
 >_...I am always open to new opportunities and challenges._
 </p>
 
----
-<h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" alt="Crystal Ball" width="35" height="35" />&nbsp;Skills</h3>
+<h2 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" alt="Crystal Ball" width="35" height="35" />&nbsp;Skills</h2>
 
 <p >
     <a href="https://reactjs.org/" target="_blank">
@@ -55,19 +53,24 @@
     
 </p>
 
-<h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope%20with%20Arrow.png" alt="Envelope with Arrow" width="30" height="30" />&nbsp;Find Me On</h3>
-<p align="left"><a href="https://linkedin.com/in/imesh-madushan" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/master/large/colored/linkedin.svg" alt="https://www.linkedin.com/in/imesh-madushan" height="30" width="40" /></a>
+<h2 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope%20with%20Arrow.png" alt="Envelope with Arrow" width="30" height="30" />&nbsp;Social</h2>
+<p align="left">
+<a href="https://linkedin.com/in/imesh-madushan" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/master/large/colored/linkedin.svg" alt="https://www.linkedin.com/in/imesh-madushan" height="30" width="40" /></a>
 <a href="https://www.facebook.com/imesh927" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/master/large/colored/facebook.svg" alt="imesh927" height="30" width="40" /></a>
 <a href="https://www.instagram.com/imesh927" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/master/large/colored/instagram.svg" alt="imesh927" height="30" width="40" /></a>
 <a href="https://t.me/Imeshmadushan" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/master/large/colored/telegram.svg" alt="Imeshmadushan" height="30" width="40" ></a>
 <a href="https://stackoverflow.com/users/25277934/imesh-madushan"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="imesh-madushan" height="30" width="40" ></a>
 </p>
 
----
-<h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" style="max-width: 100%;">&nbsp;Github Stats </h3>
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=imesh927&show_icons=true&theme=tokyonight&bg_color=45,01004E,3C0E5D&text_color=FFFFFF&hide_border=True&border_radius=14&hide_rank=True&title_color=BF91F3E8&include_all_commits=True&locale=en" alt="imesh927" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imesh927&layout=compact&theme=ads-juicy-fresh&border_radius=14&mode=weekly&hide_border=True&title_color=BF91F3E8&bg_color=45%2C01004E%2C3C0E5D&text_color=FFFFFF"/>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=imesh927&theme=ads-juicy-fresh&border_radius=14&mode=weekly&stroke=FFFFFF&ring=FFFFFF&fire=EB5A2D&currStreakNum=EB5A2D&sideNums=FFFFFF&currStreakLabel=EB5A2D&sideLabels=FFFFFFDA&dates=BF91F3E8&background=45%2C01004E%2C3C0E5D&hide_border=true" alt="imesh927" />
-</p>
+<h2 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" style="max-width: 100%;">&nbsp;Github Stats </h2>
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=imesh927&theme=ads-juicy-fresh&border_radius=14&mode=weekly&border=000000&stroke=FFFFFF&ring=FFFFFF&fire=EB5A2D&currStreakNum=EB5A2D&sideNums=FFFFFF&currStreakLabel=EB5A2D&sideLabels=FFFFFFDA&dates=BF91F3E8&background=45%2C01004E%2C3C0E5D" alt="GitHub Streak" />
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imesh927&layout=compact&theme=ads-juicy-fresh&border_radius=14&mode=weekly&hide_border=True&title_color=BF91F3E8&bg_color=45%2C01004E%2C3C0E5D&text_color=FFFFFF"/>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=imesh927&show_icons=true&theme=tokyonight&bg_color=45,01004E,3C0E5D&text_color=FFFFFF&hide_border=True&border_radius=14&locale=en&title_color=BF91F3E8&hide_rank=True&include_all_commits=True" alt="imesh927" />
+
+
+
+
