@@ -67,8 +67,8 @@
 ---
 <h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="29" height="29" style="max-width: 100%;">&nbsp;Github Stats </h3>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=imesh927&theme=ads-juicy-fresh&border_radius=14&mode=weekly&border=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=EB5A2D&sideNums=FFFFFF&currStreakLabel=EB5A2D&sideLabels=FFFFFFDA&dates=BF91F3E8&background=45%2C01004E%2C3C0E5D" alt="GitHub Streak" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=imesh-madushan&theme=ads-juicy-fresh&border_radius=14&mode=weekly&border=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=EB5A2D&sideNums=FFFFFF&currStreakLabel=EB5A2D&sideLabels=FFFFFFDA&dates=BF91F3E8&background=45%2C01004E%2C3C0E5D" alt="GitHub Streak" />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imesh927&layout=compact&theme=ads-juicy-fresh&border_radius=14&mode=weekly&hide_border=True&text_color=FFFFFF&title_color=BF91F3E8&bg_color=45%2C01004E%2C3C0E5D"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imesh-madushan&layout=compact&theme=ads-juicy-fresh&border_radius=14&mode=weekly&hide_border=True&text_color=FFFFFF&title_color=BF91F3E8&bg_color=45%2C01004E%2C3C0E5D"/>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=imesh927&show_icons=true&theme=tokyonight&bg_color=45,01004E,3C0E5D&text_color=FFFFFF&hide_border=True&border_radius=14&locale=en&title_color=BF91F3E8&hide_rank=True" alt="imesh927" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=imesh-madushan&show_icons=true&theme=tokyonight&bg_color=45,01004E,3C0E5D&text_color=FFFFFF&hide_border=True&border_radius=14&locale=en&title_color=BF91F3E8&hide_rank=True" alt="imesh927" />
